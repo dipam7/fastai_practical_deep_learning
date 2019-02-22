@@ -7,10 +7,10 @@ using images from your own gallery. I have made a peppa pig classifier for my ni
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/images/image_1.png)
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/images/image_2.png)
 
-# Stochastic Gradient Descent
+# [Stochastic Gradient Descent](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/sgd.ipynb)
 
 In this notebook we experiment with optimization of deep learning algorithms and the effects of extremely high or 
-extremely low learning rates
+extremely low learning rates. [Article](https://medium.com/@dipam44/learning-rate-and-golf-87c8d4697e31) related to this notebook.
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/images/image_3.png)
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/images/image_4.png)
