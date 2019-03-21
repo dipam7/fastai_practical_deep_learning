@@ -4,4 +4,8 @@ Early on there was a lot of skepticism regarding the use of neural networks for 
 
 [Machine learning approach](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/ml-on-tabular-data.ipynb):
 
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_10.png)
+
 [Deep learning approach](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/dl-on-tabular-data-using-fastai.ipynb):
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_11.png)
