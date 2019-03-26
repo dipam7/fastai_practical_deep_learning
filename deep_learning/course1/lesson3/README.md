@@ -14,3 +14,9 @@ Image segmentation is an application of computer vision where in we color code e
 Image segmentation has a lot of significance in the field of medicine. Parts that need to be studied are color coded and viewed in scans taken from different angles. They are then used for things like automatic measurement of organs, cell counting, or simulations based on the extracted boundary information.
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_2.png)
+
+# [Sentiment Analysis of Movie Reviews using Language Model](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/transfer-learning-in-nlp-using-fastai.ipynb)
+
+Traditional approaches to sentiment analysis, ones that used n-grams sometimes worked well. However, these approaches did not understand English and therefore failed. In this notebook we use a language model and transfer the encoding knowledge to our model to help it understand English. More soon.
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_4.png)
