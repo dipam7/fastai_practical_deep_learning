@@ -17,6 +17,8 @@ Image segmentation has a lot of significance in the field of medicine. Parts tha
 
 # [Sentiment Analysis of Movie Reviews using Language Model](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/transfer-learning-in-nlp-using-fastai.ipynb)
 
-Traditional approaches to sentiment analysis, ones that used n-grams sometimes worked well. However, these approaches did not understand English and therefore failed. In this notebook we use a language model and transfer the encoding knowledge to our model to help it understand English. More soon.
+Traditional approaches to sentiment analysis, ones that used n-grams sometimes worked well. However, these approaches did not understand English and therefore failed. In this notebook we use a language model and transfer the encoding knowledge to our model to help it understand English. Check out the [detailed article here](https://medium.com/@dipam44/transfer-learning-in-nlp-using-fastai-a21ab5929759)
 
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_5.jpeg)
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_4.png)
