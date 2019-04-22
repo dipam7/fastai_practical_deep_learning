@@ -9,3 +9,13 @@ Early on there was a lot of skepticism regarding the use of neural networks for 
 [Deep learning approach](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/dl-on-tabular-data-using-fastai.ipynb):
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_11.png)
+
+# [Collaborative filtering](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/collaborative-filtering-with-fastai.ipynb)
+
+Collaborative filtering is an application of machine learning where we try to predict whether a user will like a particular movie or product.
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_12.png)
+
+In this notebook we learn how to perform collaborative filtering on a song dataset in its most basic form. The dataset only has userID, songID and the rating as shown.
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_13.png)
