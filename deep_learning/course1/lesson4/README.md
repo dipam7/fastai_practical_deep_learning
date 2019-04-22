@@ -10,9 +10,12 @@ Early on there was a lot of skepticism regarding the use of neural networks for 
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_11.png)
 
+
+[Learn more about how pretrained models work.](https://becominghuman.ai/how-do-pretrained-models-work-11fe2f64eaa2)
+
 # [Collaborative filtering](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/collaborative-filtering-with-fastai.ipynb)
 
-Collaborative filtering is an application of machine learning where we try to predict whether a user will like a particular movie or product.
+Collaborative filtering is an application of machine learning where we try to predict whether a user will like a particular movie or product. Check out [my article on the same here](https://medium.com/@dipam44/collaborative-filtering-using-fastai-a2ec5a2a4049).
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson4/images/image_12.png)
 
