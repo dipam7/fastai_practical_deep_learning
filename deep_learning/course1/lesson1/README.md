@@ -1,6 +1,8 @@
 # [Pneumonia detection](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/pneumonia_detection.ipynb)
 
-In this project, we train a model on a bunch of X-rays and try to predict whether the patient has Pneumonia or not.
+In this project, we use a pretrained model on a bunch of X-rays and try to predict whether the patient has Pneumonia or not.
+
+[Learn more about how pretrained models work.](https://becominghuman.ai/how-do-pretrained-models-work-11fe2f64eaa2)
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_4.png)
 
