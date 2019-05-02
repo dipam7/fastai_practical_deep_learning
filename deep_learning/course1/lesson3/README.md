@@ -22,3 +22,9 @@ Traditional approaches to sentiment analysis, ones that used n-grams sometimes w
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_5.jpeg)
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_4.png)
+
+# [Image regression to predict the centre of a person's face](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/image-regression-using-fastai.ipynb)
+
+Image regression is an application of deep learning where we have a dataset that’s annotated in a certain way. For example, for every image in our dataset, we would have the co-ordinates of the eyes of that person. We then train a model to predict these co-ordinates for new images.
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson3/images/image_7.png)
