@@ -23,6 +23,7 @@ Find the detailed explanations for the projects in the READMEs of the respective
 - Multi-label classification of satellite images
 - Image segmentation of street data
 - Transfer learning in NLP for sentiment analysis of movie reviews
+- Image regression to predict the centre of a person's face
 
 ### [Lesson 4](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson4)
 
