@@ -16,3 +16,8 @@ In this notebook we demonstrate training a model with 3 different weight decays 
 3. Too much weight decay, wd = 10: model never fits well (10 epochs)
 
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/images/image_4.png)
+
+# [Momentum, Adam's optimizer and more](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/sgd-mnist.ipynb)
+
+In this notebook we make our first neural net from scratch using PyTorch and understand some more things like cross entropy loss and softmax.
+
