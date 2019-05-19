@@ -19,5 +19,9 @@ In this notebook we demonstrate training a model with 3 different weight decays 
 
 # [Momentum, Adam's optimizer and more](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/sgd-mnist.ipynb)
 
-In this notebook we make our first neural net from scratch using PyTorch and understand some more things like cross entropy loss and softmax.
+In this notebook we make our first neural net from scratch using PyTorch and understand some more things like cross entropy loss and softmax. Read [the article](https://medium.com/@dipam44/momentum-adams-optimizer-and-more-7ecf272f4a72) for detailed explanations.
 
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/images/image_5.png)
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/images/image_6.png)
