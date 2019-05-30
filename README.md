@@ -37,4 +37,5 @@ Find the detailed explanations for the projects in the READMEs of the respective
   
 ### [Lesson 6](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson6)
 
+- Dropout in neural networks [[article]](https://becominghuman.ai/regularization-in-neural-networks-3b9687e1a68c)
 - Data augmentation for computer vision [[article]](https://becominghuman.ai/data-augmentations-in-fastai-84979bbcefaa) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/data-augmentation-in-fastai.ipynb)
