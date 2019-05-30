@@ -32,7 +32,7 @@ Find the detailed explanations for the projects in the READMEs of the respective
 ### [Lesson 5](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson5)
 
 - Multiclass classification on seedling dataset and understanding weight decay [[article]](https://becominghuman.ai/this-thing-called-weight-decay-a7cd4bcfccab) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/multiclass-classification-and-weight-decay-fastai.ipynb)
-- Sound classification of urban noises using spectograms [[article]](https://becominghuman.ai/sound-classification-using-images-68d4770df426) [[code]]
+- Sound classification of urban noises using spectograms [[article]](https://becominghuman.ai/sound-classification-using-images-68d4770df426)
 - Momentum, Adam's optimizer and more [[article]](https://medium.com/@dipam44/momentum-adams-optimizer-and-more-7ecf272f4a72) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/sgd-mnist.ipynb)
   
 ### [Lesson 6](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson6)
