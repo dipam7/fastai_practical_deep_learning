@@ -16,7 +16,6 @@ Find the detailed explanations for the projects in the READMEs of the respective
 
 - Building a custom classifier using google images [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/custom_dataset_classifier.ipynb)
 - SGD and discriminative learning rates [[article]](https://becominghuman.ai/learning-rate-and-golf-87c8d4697e31) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/sgd.ipynb)
-- Data augmentation for computer vision [[article]](https://becominghuman.ai/data-augmentations-in-fastai-84979bbcefaa) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson2/data-augmentation-in-fastai.ipynb)
 
 ### [Lesson 3](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson3)
 
@@ -36,3 +35,6 @@ Find the detailed explanations for the projects in the READMEs of the respective
 - Sound classification of urban noises using spectograms [[article]](https://becominghuman.ai/sound-classification-using-images-68d4770df426) [[code]]
 - Momentum, Adam's optimizer and more [[article]](https://medium.com/@dipam44/momentum-adams-optimizer-and-more-7ecf272f4a72) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson5/sgd-mnist.ipynb)
   
+### [Lesson 6](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson6)
+
+- Data augmentation for computer vision [[article]](https://becominghuman.ai/data-augmentations-in-fastai-84979bbcefaa) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/data-augmentation-in-fastai.ipynb)
