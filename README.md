@@ -5,7 +5,7 @@ The courses are incredibly good, and I would recommend them to everyone regardle
 
 ## [1. Practical deep learning for coders v3](https://github.com/dipam7/fastai/tree/master/deep_learning/course1)
 
-Find the detailed explanations for the projects in the READMEs of the respective folders or [on my blog](https://medium.com/@dipam44)
+Find the detailed explanations for the projects in the READMEs of the respective folders or [on my blog](https://medium.com/@dipam44/deep-learning-series-30ad108fbe2b)
 
 ### [Lesson 1](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson1)
 
@@ -39,4 +39,4 @@ Find the detailed explanations for the projects in the READMEs of the respective
 
 - Dropout in neural networks [[article]](https://becominghuman.ai/regularization-in-neural-networks-3b9687e1a68c)
 - Data augmentation for computer vision [[article]](https://becominghuman.ai/data-augmentations-in-fastai-84979bbcefaa) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/data-augmentation-in-fastai.ipynb)
-- Heatmaps and CNNs [[article]] [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/heatmaps_and_CNNs.ipynb)
+- Heatmaps and CNNs [[article]](https://heartbeat.fritz.ai/heatmaps-and-convolutional-neural-networks-using-fast-ai-16d5b7d02a86) [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/heatmaps_and_CNNs.ipynb)
