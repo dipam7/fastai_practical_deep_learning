@@ -11,7 +11,7 @@ into a bunch of images like these
 Find out more in the [article related to this notebook](https://medium.com/@dipam44/data-augmentations-in-fastai-84979bbcefaa)
 
 # [Heatmaps and CNNs](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/heatmaps_and_CNNs.ipynb)
-In this notebook, we learn all about CNN terminologies. We then learn about how to create a custom convolution and how to generate heatmaps. Heatmaps give us a visual representation of the parts of a picture the CNN looked at while making a prediction. Article out soon.
+In this notebook, we learn all about CNN terminologies. We then learn about how to create a custom convolution and how to generate heatmaps. Heatmaps give us a visual representation of the parts of a picture the CNN looked at while making a prediction. [Refer to the article for detailed explanations](https://heartbeat.fritz.ai/heatmaps-and-convolutional-neural-networks-using-fast-ai-16d5b7d02a86)
 
 ### Understanding CNNs
 ![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson6/images/image_4.png)
