@@ -44,3 +44,7 @@ Find the detailed explanations for the projects in the READMEs of the respective
 ### [Lesson 7](https://github.com/dipam7/fastai/tree/master/deep_learning/course1/lesson_7)
 
 - CNNs and Resnet using fastai and PyTorch. [[article]] [[code]](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson_7/resnet-mnist.ipynb)
+
+## [2. Deep learning from the foundations](https://github.com/dipam7/fastai/tree/master/deep_learning/course2)
+
+1. Matrix multiplication (from the normal loops to PyTorch speed) [[notebook]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/01_matmul.ipynb)[[article]](https://medium.com/@dipam44/matrix-multiplication-the-pytorch-way-c0ad724402ed)
