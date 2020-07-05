@@ -48,3 +48,6 @@ Find the detailed explanations for the projects in the READMEs of the respective
 ## [2. Deep learning from the foundations](https://github.com/dipam7/fastai/tree/master/deep_learning/course2)
 
 1. Matrix multiplication (from the normal loops to PyTorch speed) [[notebook]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/01_matmul.ipynb)[[article]](https://medium.com/@dipam44/matrix-multiplication-the-pytorch-way-c0ad724402ed)
+
+2. Initializing neural networks [[notebook]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/02_fully_connected.ipynb) [[article]](https://becominghuman.ai/initializing-neural-networks-3a774eb63745)
+
