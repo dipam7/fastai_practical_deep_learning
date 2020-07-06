@@ -51,3 +51,7 @@ Find the detailed explanations for the projects in the READMEs of the respective
 
 2. Initializing neural networks [[notebook]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/02_fully_connected.ipynb) [[article]](https://becominghuman.ai/initializing-neural-networks-3a774eb63745)
 
+4. Customize your training loop using callbacks [[notebook1]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/04_callbacks.ipynb) [[notebook2]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/05a_foundations.ipynb) [[article]](https://medium.com/@dipam44/customize-your-training-loop-with-callbacks-9d93b415a602)
+
+5. Convolutional neural networks and hooks [[notebook]](https://github.com/dipam7/fastai_practical_deep_learning/blob/master/deep_learning/course2/notebooks/06_cuda_cnn_hooks_init.ipynb) - In this notebook we use nn.Sequential to build a basic convolutional neural network. We then learn how to use PyTorch's hooks to access data during training. This can be used to figure out how the mean and standard deviation of the output of every layer varies with respect to number of epochs. Check the notebook for more information.
+
